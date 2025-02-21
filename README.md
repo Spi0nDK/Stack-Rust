@@ -1,4 +1,4 @@
-# Stack-Rust
+# Stack-Rust af Emil, Mads, Magnus, Mikkel og Peter
 Projektet implementerer en stack i Rust, hvor elementerne kan være af enhver type.
 
 Funktionerne: push(), pop(), peek(), is_empty() og read_elements()
